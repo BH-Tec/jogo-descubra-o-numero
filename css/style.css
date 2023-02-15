@@ -71,7 +71,7 @@ body {
   font-size: 32px;
   color: var(--color-number);
   margin: 20px auto;
-  background-color: url('../assets/game__mistery-box.png') center no-repeat;
+  background: url('../assets/game__mistery-box.png') center no-repeat;
   background-size: cover;
 }
 
