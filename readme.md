@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/f246d16f-8656-43c0-bcf2-431546e24df6"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/f246d16f-8656-43c0-bcf2-431546e24df6.svg" alt="wakatime"></a>
+  <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/0ac26489-1136-4673-a2f4-6f1c3205f1f0"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/0ac26489-1136-4673-a2f4-6f1c3205f1f0.svg" alt="wakatime"></a>
 </p>
 
 <p align="center">
